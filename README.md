@@ -10,4 +10,4 @@
 
 
 ## Notice
-The code will be released after publication.
+The code will be released after the paper is officially published.
