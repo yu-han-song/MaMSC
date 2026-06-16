@@ -9,7 +9,7 @@
 ## 🧩 Architecture
 
 <div align="center">
-  <img src="./images/MaMSC.png" alt="exp" width="1200">
+  <img src="./images/MAMSC.png" alt="exp" width="1200">
 </div>
 
 
@@ -17,8 +17,8 @@
 ## 📑 Full Results
 
 <div align="center">
-  <img src="./images/res_img.png" alt="exp" width="500">
-  <img src="./images/res_tab.png" alt="exp" width="500">
+  <img src="./images/res_img.png" alt="exp" width="600">
+  <img src="./images/res_tab.png" alt="exp" width="600">
 </div>
 
 
